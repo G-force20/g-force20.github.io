@@ -40,6 +40,7 @@ function initMap() {
             $("#mainmapinfo").append($("<li></li>").text("Accessibility: "+building.access));
             $("#mainmapinfo").append($("<li></li>").text("Accessible entrances: "+building.entrances));
             $("#mainmapinfo").append($("<li></li>").text("Additional info: "+building.additional));
+            loadMarkers(building);
         });
     });
 }
