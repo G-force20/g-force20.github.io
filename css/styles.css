@@ -1,9 +1,8 @@
 nav {
     background-color: #502d0e;
+    padding: 1em;
 }
-a:link{
-    color: white
-}
-a:visited{
-    color: white
+nav a:link, nav a:visited {
+    color: white;
+    text-decoration: none;
 }
