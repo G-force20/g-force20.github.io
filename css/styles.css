@@ -23,3 +23,9 @@ nav a:link, nav a:visited {
     float: left;
     padding: 1em;
 }
+.sidebar li::first-letter{
+    text-transform: capitalize;
+}
+.sidebar img {
+    width: 100%
+}

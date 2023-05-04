@@ -44,6 +44,7 @@ function initMap() {
             $("#mainmapinfo").append($("<li></li>").text("Accessibility: "+building.access));
             $("#mainmapinfo").append($("<li></li>").text("Accessible entrances: "+building.entrances));
             $("#mainmapinfo").append($("<li></li>").text("Additional info: "+building.additional));
+            $("#mainmapinfo").append('<div id="pinimg"></div>');
             loadMarkers(name);
         });
     }//);
@@ -78,5 +79,9 @@ function loadMarkers(name) {
 }
 
 function showAttributes(point){
-    console.log(point.img)
+    let imgtxt = '<br><li>'+point.type+':</li>'
+    imgtxt += '<img src="pictures/'+point.img+'.jpg" ';
+    imgtxt += 'alt="a photo of '+point.img+'">';
+    $("#pinimg").html(imgtxt)
+    console.log(imgtxt)
 }
