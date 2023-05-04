@@ -6,8 +6,20 @@ nav a:link, nav a:visited {
     color: white;
     text-decoration: none;
 }
-#map{
-    width: 700px;
+div{
+    margin: 1em;
+}
+.map{
+    width: 600px;
     height: 400px;
     background-color: gray;
+    float: left;
+    margin: 1em;
+}
+.sidebar{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    float: left;
+    padding: 1em;
 }

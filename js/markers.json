@@ -1,7 +1,10 @@
 
 [
     {
-        "name": "steps",
+        "name": "STEPS",
+        "elevator": "Yes",
+        "entrances": 3,
+        "access": "full",
         "pos": {
             "lat": 40.60834926072699,
             "lng": -75.3790093860652
@@ -51,6 +54,10 @@
     },
     {
         "name": "Packard",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "partial",
+        "additional": "Cannot access parts of the bottom floor including the Sunlab, where computer science labs are held. Cannot access the 6th floor. Can access floors 2-5 from single accessible enterence",
         "pos": {
             "lat": 40.60786412459489,
             "lng": -75.37892667396925

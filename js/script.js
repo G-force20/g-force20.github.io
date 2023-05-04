@@ -23,7 +23,7 @@ function initMap() {
     // let steps = { lat: 40.608381759451525, lng: -75.37842078555052 }
     // console.log(data.steps.pos)
     map = new google.maps.Map(
-        document.getElementById("map"),
+        document.getElementById("mainmap"),
         { zoom: 18, center: data[0].pos }
     );
     data.forEach((building) => {
@@ -35,7 +35,11 @@ function initMap() {
          });
         building.marker.addListener("click", () => {
             // console.log(building.name+"clicked");
-            loadMarkers(building)
+            $("#mainmapinfo").html(building.name+": ");
+            $("#mainmapinfo").append($("<li></li>").text("Elevator: "+building.elevator));
+            $("#mainmapinfo").append($("<li></li>").text("Accessibility: "+building.access));
+            $("#mainmapinfo").append($("<li></li>").text("Accessible entrances: "+building.entrances));
+            $("#mainmapinfo").append($("<li></li>").text("Additional info: "+building.additional));
         });
     });
 }

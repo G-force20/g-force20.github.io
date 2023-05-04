@@ -20,7 +20,14 @@
         <h1>Home</h1>
         <p>this is a pretty home page and this is paragraph text to replace. there will be maps here</p>
         <p>i hope</p>
-        <div id="map"></div>
+        <div class="mainmapcontainer">
+            <div id="mainmap" class="map"></div>
+            <div id="mainmapinfo" class="sidebar">Main stuff</div>
+        </div>
+        <div id="secondarymapcontainer">
+            <div id="secondarymap" class="map"></div>
+            <div id="secondarymapinfo" class="sidebar">Stuff</div>
+        </div>
     </div>
 
     <script src="https://unpkg.com/@googlemaps/js-api-loader@1.0.0/dist/index.min.js"></script>
