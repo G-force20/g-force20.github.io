@@ -1,5 +1,5 @@
 // read data from json
-let data, map, shown;
+let data, map, shown = [], load;
 
 $(document).ready(() => {
     $.getJSON("https://g-force20.github.io/js/markers.json", (response) => {
@@ -7,15 +7,16 @@ $(document).ready(() => {
         // console.log(response)
         data = response;
     });
+    // load google map API
+    const loader = new google.maps.plugins.loader.Loader({
+        apiKey: "AIzaSyClit8oNyG7-uK0tOxGAgX9imqLrWm3RPc", //restricted to github
+        // apiKey: "AIzaSyA84in0zBFSZRcfH5Hpb_l0X1eBrn9vI7E", //unrestriced, keep private
+        version: "weekly",
+        libraries: ["maps"]//, "marker"]
+    });
+    load = loader.load().then(initMap);
 });
 
-// load google map API
-const loader = new google.maps.plugins.loader.Loader({
-    apiKey: "AIzaSyClit8oNyG7-uK0tOxGAgX9imqLrWm3RPc",
-    version: "weekly",
-    libraries: ["maps"]//, "marker"]
-});
-let load = loader.load().then(initMap);
 
 
 function initMap() {

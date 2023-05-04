@@ -6,3 +6,8 @@ nav a:link, nav a:visited {
     color: white;
     text-decoration: none;
 }
+#map{
+    width: 700px;
+    height: 400px;
+    background-color: gray;
+}
