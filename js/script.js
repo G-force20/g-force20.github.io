@@ -25,8 +25,12 @@ function initMap() {
     // console.log(data.steps.pos)
     map = new google.maps.Map(
         document.getElementById("mainmap"),{ 
-            zoom: 18, 
-            center: data.STEPS.pos,
+            zoom: 17, 
+            mapID: "189e08e61aca378d",
+            center: {
+                lat:40.60825025820167,
+                lng: -75.37765792302574
+            },
             minZoom: 15,
             restriction: {
                 latLngBounds: {
