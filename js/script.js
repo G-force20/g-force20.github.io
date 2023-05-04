@@ -25,9 +25,12 @@ function initMap() {
     // console.log(data.steps.pos)
     map = new google.maps.Map(
         document.getElementById("mainmap"),
-        { zoom: 18, center: data[0].pos }
+        { zoom: 18, center: data.STEPS.pos }
     );
-    data.forEach((building) => {
+    for(let name in data) {
+    // data.forEach((building) => {
+        let building = data[name]
+        console.log(building)
         building.clicked = false;
         building.marker = new google.maps.Marker({ 
             position: building.pos, 
@@ -41,12 +44,13 @@ function initMap() {
             $("#mainmapinfo").append($("<li></li>").text("Accessibility: "+building.access));
             $("#mainmapinfo").append($("<li></li>").text("Accessible entrances: "+building.entrances));
             $("#mainmapinfo").append($("<li></li>").text("Additional info: "+building.additional));
-            loadMarkers(building);
+            loadMarkers(name);
         });
-    });
+    }//);
 }
 
-function loadMarkers(building) {
+function loadMarkers(name) {
+    let building = data[name];
     shown.forEach((point) => {
         point.marker.setMap(null);
     });
