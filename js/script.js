@@ -2,7 +2,7 @@
 let data, map, shown;
 
 $(document).ready(() => {
-    $.getJSON("https://g-force20.github.io/js/marker.json", (response) => {
+    $.getJSON("https://g-force20.github.io/js/markers.json", (response) => {
         // console.log("read")
         // console.log(response)
         data = response;
