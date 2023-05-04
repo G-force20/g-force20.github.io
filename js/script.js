@@ -24,8 +24,19 @@ function initMap() {
     // let steps = { lat: 40.608381759451525, lng: -75.37842078555052 }
     // console.log(data.steps.pos)
     map = new google.maps.Map(
-        document.getElementById("mainmap"),
-        { zoom: 18, center: data.STEPS.pos }
+        document.getElementById("mainmap"),{ 
+            zoom: 18, 
+            center: data.STEPS.pos,
+            minZoom: 15,
+            restriction: {
+                latLngBounds: {
+                    north: 40.61563243158127,
+                    south: 40.596741814117735, 
+                    east: -75.34953258447779,
+                    west: -75.39170066258816
+                }
+            }
+        }
     );
     for(let name in data) {
     // data.forEach((building) => {
