@@ -30,7 +30,7 @@ function initMap() {
     for(let name in data) {
     // data.forEach((building) => {
         let building = data[name]
-        console.log(building)
+        // console.log(building)
         building.clicked = false;
         building.marker = new google.maps.Marker({ 
             position: building.pos, 
@@ -40,7 +40,7 @@ function initMap() {
          });
         building.marker.addListener("click", () => {
             // console.log(building.name+"clicked");
-            $("#mainmapinfo").html(building.name+": ");
+            $("#mainmapinfo").html($("<h2></h2>").text(building.name+": "));
             $("#mainmapinfo").append($("<li></li>").text("Elevator: "+building.elevator));
             $("#mainmapinfo").append($("<li></li>").text("Accessibility: "+building.access));
             $("#mainmapinfo").append($("<li></li>").text("Accessible entrances: "+building.entrances));
@@ -92,17 +92,34 @@ function showAttributes(point){
 }
 
 function selectPin(attr) {
-    let path = 'icons/';
-    switch (attr.toLowerCase()) {
-        case "fully":
-            return path += 'green_pin.png'
-        case "partially":
-            return path += 'yellow_pin.png'
-        case "inaccessible":
-            return path += 'red_pin.png'
-        case "parking":
-            return path += 'parking_pin.png'
-        default:
-            return path += 'red_pin.png'
+    let icon = {
+        path: 'icons/',
+        scaledSize: new google.maps.Size(50,50)
     }
+    switch (attr.toLowerCase()) {
+        // change this to a dictrionary of strings later.
+        // scales don't work, need to resize picture
+        case "fully":
+            icon.path += 'green_pin_s.png'
+            break;
+        case "partially":
+            icon.path += 'yellow_pin_s.png'
+            break;
+        case "inaccessible":
+            icon.path += 'red_pin_s.png'
+            break;
+        case "parking":
+            icon.path += 'parking_pin_s.png'
+            break;
+        case "entrance":
+            icon.path += 'red_pin_s.png'
+            break;
+        case "lift":
+            icon.path += 'red_pin_s.png'
+            break;
+        default:
+            icon.path += 'red_pin_s.png'
+            break;
+    }
+    return icon.path;
 }
