@@ -39,7 +39,7 @@
         "name": "Taylor",
         "elevator": "No",
         "entrances": 1,
-        "access": "Partial",
+        "access": "partiallly",
         "additional": "One of 3 accessible freshman dorms. Can only access floor enterance is on",
         "pos": {
             "lat": 40.60477452776,
@@ -51,7 +51,7 @@
         "name": "M&M",
         "elevator": "No",
         "entrances": 1,
-        "access": "Partial",
+        "access": "partiallly",
         "additional": "One of 3 accessible freshman dorms. Can only access floor enterance is on",
         "pos": {
             "lat": 40.60486805125,
@@ -63,7 +63,7 @@
         "name": "Johnson",
         "elevator": "No",
         "entrances": 2,
-        "access": "Partial",
+        "access": "partiallly",
         "additional": "Can enter floor 1 from enterance on Sayre Drive. Can enter floor 3 from enterance on University Drive. Cannot access second floor. ",
         "pos": {
             "lat": 40.60536168878,
@@ -183,7 +183,7 @@
         "name": "Packard ",
         "elevator": "Yes",
         "entrances": 1,
-        "access": "Partial",
+        "access": "partiallly",
         "additional": "Cannot access parts of the bottom floor including the Sunlab, where computer science labs are held. Cannot access the 6th floor. Can access floors 2-5 from single accessible enterence",
         "pos": {
             "lat": 40.60785788181,
@@ -313,7 +313,7 @@
         "name": "Computing Center",
         "elevator": "Yes",
         "entrances": 1,
-        "access": "Partial",
+        "access": "partiallly",
         "additional": "Cannot access part of floor 1, including the computer repair center",
         "pos": {
             "lat": 40.609049745695,
@@ -325,7 +325,7 @@
         "name": "Whitaker",
         "elevator": "Yes",
         "entrances": 2,
-        "access": "Partial",
+        "access": "partiallly",
         "additional": "From the front enterance on E Packer Ave, you can only get to Auditorium 303. From the back enterence on Asa Dr. you can get to the rest of the building. Cannot get to basement auditorium ",
         "pos": {
             "lat": 40.60898465514,
@@ -397,7 +397,7 @@
         "name": "Coxe",
         "elevator": "No",
         "entrances": 1,
-        "access": "Partially",
+        "access": "partiallly",
         "additional": "Only access first floor",
         "pos": {
             "lat": 40.60607411142,
@@ -553,7 +553,7 @@
         "name": "Stevens",
         "elevator": "No",
         "entrances": 1,
-        "access": "Partially",
+        "access": "partiallly",
         "additional": "One of 3 accessible freshman dorms. Can only access floor enterance is on",
         "pos": {
             "lat": 40.60739595382,

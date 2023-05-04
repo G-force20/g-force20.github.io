@@ -35,7 +35,8 @@ function initMap() {
         building.marker = new google.maps.Marker({ 
             position: building.pos, 
             map: map,
-            title: building.name
+            title: building.name,
+            icon: selectPin(building.access)
          });
         building.marker.addListener("click", () => {
             // console.log(building.name+"clicked");
@@ -67,8 +68,12 @@ function loadMarkers(name) {
     else{
         // console.log("new")
         shown.forEach((point) => {
-            // console.log(pic +" "+index);
-            point.marker = new google.maps.Marker({ position: point.pos, map: map });
+            
+            point.marker = new google.maps.Marker({ 
+                position: point.pos, 
+                map: map,
+                icon: selectPin(point.type) 
+            });
             point.marker.addListener("click", () => {
                 showAttributes(point);
             });
@@ -84,4 +89,20 @@ function showAttributes(point){
     imgtxt += 'alt="a photo of '+point.img+'">';
     $("#pinimg").html(imgtxt)
     console.log(imgtxt)
+}
+
+function selectPin(attr) {
+    let path = 'icons/';
+    switch (attr.toLowerCase()) {
+        case "fully":
+            return path += 'green_pin.png'
+        case "partially":
+            return path += 'yellow_pin.png'
+        case "inaccessible":
+            return path += 'red_pin.png'
+        case "parking":
+            return path += 'parking_pin.png'
+        default:
+            return path += 'red_pin.png'
+    }
 }
