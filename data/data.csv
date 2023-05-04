@@ -1,0 +1,47 @@
+name,elevator,entrances,access,additional,lat,lng
+Singleton,Yes,1,Fully,,40.60467517200975, -75.37918064510642
+Maida,Yes,1,Fully,,40.604655012854685, -75.37984635453014
+Hitch,Yes,1,Fully,,40.6043943832312, -75.37955807010734
+Taylor,No,1,Partial,One of 3 accessible freshman dorms. Can only access floor enterance is on,40.60477452776116, -75.37838596623453
+M&M,No,1,Partial,One of 3 accessible freshman dorms. Can only access floor enterance is on,40.60486805125996, -75.37756556000531
+Johnson,No,2,Partial,Can enter floor 1 from enterance on Sayre Drive. Can enter floor 3 from enterance on University Drive. Cannot access second floor. ,40.60536168878542, -75.3780341835051
+Drown,No,0,Inaccessible,"Cannot access Math and Writing Center, located on 1st floor of Drown",40.60567968695399, -75.3772471297756
+Coppee,Yes,1,Fully,,40.60599195600972, -75.37668180510005
+Linderman,Yes,1,Fully,No button to automatically open both doors that must go through. Wheelchair lift must be used to enter building. No nearby parking,40.60669290453949, -75.3770414433549
+Williams Hall,Yes,1,Fully,Has Wheelchair Lift to get to first floor,40.60670273519629, -75.37562213215068
+Taylor Gym,Yes,2,Fully,,40.60730504671168, -75.37401544462487
+Lewis Lab,Yes,2,Fully,,40.607612805867156, -75.37495857390374
+Wilber,Yes,1,Fully,Long windy trek to get to the front door. See additional info on cases page.,40.60796452888274, -75.37554182492808
+Fritz Lab,Yes,0,Inaccessible,"Has an elevator, but cannot get into the building unless Bay doors are open. The door by the handicap parking spot leads directly to a set of stairs.",40.60802262580849, -75.37619746520403
+Chandler Ulman,Yes,1,Fully,Wheelchair lift to enter building,40.60741408725088, -75.37648384148004
+Packard ,Yes,1,Partial,"Cannot access parts of the bottom floor including the Sunlab, where computer science labs are held. Cannot access the 6th floor. Can access floors 2-5 from single accessible enterence",40.60785788181613, -75.37892928568134
+Mohler,Yes,1,Fully,Extremely high curb outside of enterence,40.607628828853855, -75.38138904892602
+STEPS,Yes,1,Fully,,40.608405548138826, -75.37901095923507
+Magines,Yes,2,Fully,, 40.60894447462734, -75.37886358897559
+FML,Yes,2,Fully,From the enterence near Asa Drive there is a hidden elevator. See our building cases page for more information,40.608948762889554, -75.37787134569649
+Rauch,Yes,2,Fully,,40.60824236966769, -75.37371224483198
+Computing Center,Yes,1,Partial,"Cannot access part of floor 1, including the computer repair center",40.609049745695955, -75.37848361090265
+Whitaker,Yes,2,Partial,"From the front enterance on E Packer Ave, you can only get to Auditorium 303. From the back enterence on Asa Dr. you can get to the rest of the building. Cannot get to basement auditorium ",40.60898465514113, -75.37630839975081
+Digital Media Studio,No,1,Fully,,40.608600719839295, -75.37788782490166
+Neville,No,2,Fully,Restrooms on lower floor which can only be accessed from another external door,40.6085473144705, -75.37727356281223
+Mudd,Yes,1,Fully,,40.60854947181692, -75.3767322187113
+Sinclair,Yes,1,Fully,,40.60901406532428, -75.37725066938512
+HST,Yes,3,Fully,,40.60955655965826, -75.37646679348694
+Coxe,No,1,Partially,Only access first floor,40.60607411142347, -75.37579212929013
+Dravo,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60460407175164, -75.37487067263447
+Drinker,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.6046884073911, -75.3757433622548
+Richards,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60526288940169, -75.37480913819628
+Congdon,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60643037518912, -75.3719920194772
+Emery,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60635594433725, -75.37232165683
+Leavitt,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60616501264262, -75.37257456824722
+McConn,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.6061197067367, -75.37292551835989
+Smiley,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60624052241785, -75.37328499359278
+Thornburg,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60623620757587, -75.37362031434822
+Beardslee,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60695606343407, -75.37187080028131
+Carothers,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings,40.60700551871084, -75.3721913674191
+Palmer,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings, 40.60724498584927, -75.37254793407506
+Stevens,No,1,Partially,One of 3 accessible freshman dorms. Can only access floor enterance is on, 40.60739595382163, -75.37233879401725
+Stoughton,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings, 40.60732567567001, -75.37176280172686
+Williams,No,0,Inaccessible,One of 20 inaccessible freshman dorm buildings, 40.60719292784867, -75.37159137544997
+Lamberton,Yes,2,Fully,,40.60556724461852, -75.3761569454353
+Rathbone,N/A,1,Fully,Must go through different enterance,40.60673406976616, -75.37286145998945

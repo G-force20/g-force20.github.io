@@ -1,0 +1,416 @@
+{
+    "Singleton": {
+        "name": "Singleton",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.60467517200 ,
+        "lng": -75.37918064510 
+    },
+    "Maida": {
+        "name": "Maida",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.604655012854 ,
+        "lng": -75.37984635453 
+    },
+    "Hitch": {
+        "name": "Hitch",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.6043943832 ,
+        "lng": -75.37955807010 
+    },
+    "Taylor": {
+        "name": "Taylor",
+        "elevator": "No",
+        "entrances": 1,
+        "access": "Partial",
+        "additional": "One of 3 accessible freshman dorms. Can only access floor enterance is on",
+        "lat":  40.60477452776 ,
+        "lng": -75.37838596623 
+    },
+    "M&M": {
+        "name": "M&M",
+        "elevator": "No",
+        "entrances": 1,
+        "access": "Partial",
+        "additional": "One of 3 accessible freshman dorms. Can only access floor enterance is on",
+        "lat":  40.60486805125 ,
+        "lng": -75.37756556000 
+    },
+    "Johnson": {
+        "name": "Johnson",
+        "elevator": "No",
+        "entrances": 2,
+        "access": "Partial",
+        "additional": "Can enter floor 1 from enterance on Sayre Drive. Can enter floor 3 from enterance on University Drive. Cannot access second floor. ",
+        "lat":  40.60536168878 ,
+        "lng": -75.3780341835 
+    },
+    "Drown": {
+        "name": "Drown",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "Cannot access Math and Writing Center, located on 1st floor of Drown",
+        "lat":  40.60567968695 ,
+        "lng": -75.3772471297 
+    },
+    "Coppee": {
+        "name": "Coppee",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.60599195600 ,
+        "lng": -75.37668180510 
+    },
+    "Linderman": {
+        "name": "Linderman",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "No button to automatically open both doors that must go through. Wheelchair lift must be used to enter building. No nearby parking",
+        "lat":  40.60669290453 ,
+        "lng": -75.3770414433 
+    },
+    "Williams Hall": {
+        "name": "Williams Hall",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "Has Wheelchair Lift to get to first floor",
+        "lat":  40.60670273519 ,
+        "lng": -75.37562213215 
+    },
+    "Taylor Gym": {
+        "name": "Taylor Gym",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.60730504671 ,
+        "lng": -75.37401544462 
+    },
+    "Lewis Lab": {
+        "name": "Lewis Lab",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.607612805867 ,
+        "lng": -75.37495857390 
+    },
+    "Wilber": {
+        "name": "Wilber",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "Long windy trek to get to the front door. See additional info on cases page.",
+        "lat":  40.60796452888 ,
+        "lng": -75.37554182492 
+    },
+    "Fritz Lab": {
+        "name": "Fritz Lab",
+        "elevator": "Yes",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "Has an elevator, but cannot get into the building unless Bay doors are open. The door by the handicap parking spot leads directly to a set of stairs.",
+        "lat":  40.60802262580 ,
+        "lng": -75.37619746520 
+    },
+    "Chandler Ulman": {
+        "name": "Chandler Ulman",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "Wheelchair lift to enter building",
+        "lat":  40.60741408725 ,
+        "lng": -75.37648384148 
+    },
+    "Packard ": {
+        "name": "Packard ",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Partial",
+        "additional": "Cannot access parts of the bottom floor including the Sunlab, where computer science labs are held. Cannot access the 6th floor. Can access floors 2-5 from single accessible enterence",
+        "lat":  40.60785788181 ,
+        "lng": -75.37892928568 
+    },
+    "Mohler": {
+        "name": "Mohler",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "Extremely high curb outside of enterence",
+        "lat":  40.607628828853 ,
+        "lng": -75.38138904892 
+    },
+    "STEPS": {
+        "name": "STEPS",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.608405548138 ,
+        "lng": -75.37901095923 
+    },
+    "Magines": {
+        "name": "Magines",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Fully",
+        "additional": "",
+        "lat": 40.60894447462 ,
+        "lng": -75.37886358897 
+    },
+    "FML": {
+        "name": "FML",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Fully",
+        "additional": "From the enterence near Asa Drive there is a hidden elevator. See our building cases page for more information",
+        "lat":  40.608948762889 ,
+        "lng": -75.37787134569 
+    },
+    "Rauch": {
+        "name": "Rauch",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.60824236966 ,
+        "lng": -75.37371224483 
+    },
+    "Computing Center": {
+        "name": "Computing Center",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Partial",
+        "additional": "Cannot access part of floor 1, including the computer repair center",
+        "lat":  40.609049745695 ,
+        "lng": -75.37848361090 
+    },
+    "Whitaker": {
+        "name": "Whitaker",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Partial",
+        "additional": "From the front enterance on E Packer Ave, you can only get to Auditorium 303. From the back enterence on Asa Dr. you can get to the rest of the building. Cannot get to basement auditorium ",
+        "lat":  40.60898465514 ,
+        "lng": -75.37630839975 
+    },
+    "Digital Media Studio": {
+        "name": "Digital Media Studio",
+        "elevator": "No",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.608600719839 ,
+        "lng": -75.37788782490 
+    },
+    "Neville": {
+        "name": "Neville",
+        "elevator": "No",
+        "entrances": 2,
+        "access": "Fully",
+        "additional": "Restrooms on lower floor which can only be accessed from another external door",
+        "lat":  40.6085473144 ,
+        "lng": -75.37727356281 
+    },
+    "Mudd": {
+        "name": "Mudd",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.60854947181 ,
+        "lng": -75.3767322187 
+    },
+    "Sinclair": {
+        "name": "Sinclair",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.60901406532 ,
+        "lng": -75.37725066938 
+    },
+    "HST": {
+        "name": "HST",
+        "elevator": "Yes",
+        "entrances": 3,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.60955655965 ,
+        "lng": -75.37646679348 
+    },
+    "Coxe": {
+        "name": "Coxe",
+        "elevator": "No",
+        "entrances": 1,
+        "access": "Partially",
+        "additional": "Only access first floor",
+        "lat":  40.60607411142 ,
+        "lng": -75.37579212929 
+    },
+    "Dravo": {
+        "name": "Dravo",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60460407175 ,
+        "lng": -75.37487067263 
+    },
+    "Drinker": {
+        "name": "Drinker",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.6046884073 ,
+        "lng": -75.3757433622 
+    },
+    "Richards": {
+        "name": "Richards",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60526288940 ,
+        "lng": -75.37480913819 
+    },
+    "Congdon": {
+        "name": "Congdon",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60643037518 ,
+        "lng": -75.3719920194 
+    },
+    "Emery": {
+        "name": "Emery",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60635594433 ,
+        "lng": -75.37232165 
+    },
+    "Leavitt": {
+        "name": "Leavitt",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60616501264 ,
+        "lng": -75.37257456824 
+    },
+    "McConn": {
+        "name": "McConn",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.6061197067 ,
+        "lng": -75.37292551835 
+    },
+    "Smiley": {
+        "name": "Smiley",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60624052241 ,
+        "lng": -75.37328499359 
+    },
+    "Thornburg": {
+        "name": "Thornburg",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60623620757 ,
+        "lng": -75.37362031434 
+    },
+    "Beardslee": {
+        "name": "Beardslee",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60695606343 ,
+        "lng": -75.37187080028 
+    },
+    "Carothers": {
+        "name": "Carothers",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat":  40.60700551871 ,
+        "lng": -75.3721913674 
+    },
+    "Palmer": {
+        "name": "Palmer",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat": 40.60724498584 ,
+        "lng": -75.37254793407 
+    },
+    "Stevens": {
+        "name": "Stevens",
+        "elevator": "No",
+        "entrances": 1,
+        "access": "Partially",
+        "additional": "One of 3 accessible freshman dorms. Can only access floor enterance is on",
+        "lat": 40.60739595382 ,
+        "lng": -75.37233879401 
+    },
+    "Stoughton": {
+        "name": "Stoughton",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat": 40.60732567567 ,
+        "lng": -75.37176280172 
+    },
+    "Williams": {
+        "name": "Williams",
+        "elevator": "No",
+        "entrances": "0",
+        "access": "Inaccessible",
+        "additional": "One of 20 inaccessible freshman dorm buildings",
+        "lat": 40.60719292784 ,
+        "lng": -75.37159137544 
+    },
+    "Lamberton": {
+        "name": "Lamberton",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Fully",
+        "additional": "",
+        "lat":  40.60556724461 ,
+        "lng": -75.3761569454 
+    },
+    "Rathbone": {
+        "name": "Rathbone",
+        "elevator": "N/A",
+        "entrances": 1,
+        "access": "Fully",
+        "additional": "Must go through different enterance",
+        "lat":  40.60673406976 ,
+        "lng": -75.37286145998 
+    }
+}
