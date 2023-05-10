@@ -483,7 +483,7 @@
                     "lng": -75.37605008166042
                 },
                 "img": "cu_lift",
-                "type": "wheelchair lift"
+                "type": "lift"
             },
             {
                 "pos": {
@@ -670,14 +670,7 @@
             "lng": -75.37787134569
         },
         "points": [
-            {
-                "pos": {
-                    "lat": 40.60865676634765,
-                    "lng": -75.37790405045837
-                },
-                "img": "dms_entrance",
-                "type": "entrance"
-            },
+        
             {
                 "pos": {
                     "lat": 40.60909686269164,
@@ -972,7 +965,7 @@
         "name": "Coxe",
         "elevator": "No",
         "entrances": 1,
-        "access": "Partially Accessiblely",
+        "access": "Partially accessible",
         "additional": "Only access first floor",
         "pos": {
             "lat": 40.60607411142,
@@ -1330,7 +1323,7 @@
         "name": "Stevens",
         "elevator": "No",
         "entrances": 1,
-        "access": "Partially Accessiblely",
+        "access": "Partially accessible",
         "additional": "One of 3 accessible freshman dorms. Can only access floor enterance is on",
         "pos": {
             "lat": 40.60739595382,
