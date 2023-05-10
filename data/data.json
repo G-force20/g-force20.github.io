@@ -90,7 +90,8 @@
                 },
                 "img": "tah_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Johnson": {
         "name": "Johnson",
@@ -118,7 +119,8 @@
                 },
                 "img": "hwc_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Drown": {
         "name": "Drown",
@@ -154,7 +156,8 @@
                 },
                 "img": "dr_entrance_s",
                 "type": "NOT_entrance"
-            }]
+            }
+        ]
     },
     "Coppee": {
         "name": "Coppee",
@@ -174,7 +177,8 @@
                 },
                 "img": "co_entrance",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Linderman": {
         "name": "Linderman",
@@ -186,22 +190,24 @@
             "lat": 40.60669290453,
             "lng": -75.3770414433
         },
-        "points": [{
-            "pos": {
-                "lat": 40.60654629980794,
-                "lng": -75.37722447935856
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60654629980794,
+                    "lng": -75.37722447935856
+                },
+                "img": "li_entrance",
+                "type": "entrance"
             },
-            "img": "li_entrance",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.60658565099153,
-                "lng": -75.37722527678405
-            },
-            "img": "li_lift",
-            "type": "lift"
-        }]
+            {
+                "pos": {
+                    "lat": 40.60658565099153,
+                    "lng": -75.37722527678405
+                },
+                "img": "li_lift",
+                "type": "lift"
+            }
+        ]
     },
     "Williams Hall": {
         "name": "Williams Hall",
@@ -213,14 +219,16 @@
             "lat": 40.60670273519,
             "lng": -75.37562213215
         },
-        "points": [{
-            "pos": {
-                "lat": 40.60682827234026,
-                "lng": -75.37561321759227
-            },
-            "img": "wil_hall_entrance",
-            "type": "entrance"
-        }]
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60682827234026,
+                    "lng": -75.37561321759227
+                },
+                "img": "wil_hall_entrance",
+                "type": "entrance"
+            }
+        ]
     },
     "Taylor Gym": {
         "name": "Taylor Gym",
@@ -232,46 +240,48 @@
             "lat": 40.60730504671,
             "lng": -75.37401544462
         },
-        "points": [{
-            "pos": {
-                "lat": 40.60756448050704,
-                "lng": -75.37425270515175
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60756448050704,
+                    "lng": -75.37425270515175
+                },
+                "img": "sports_med_entrance",
+                "type": "entrance"
             },
-            "img": "sports_med_entrance",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.607189498842416,
-                "lng": -75.37372434712005
+            {
+                "pos": {
+                    "lat": 40.607189498842416,
+                    "lng": -75.37372434712005
+                },
+                "img": "ta_entrance_e",
+                "type": "entrance"
             },
-            "img": "ta_entrance_e",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.607521758602175,
-                "lng": -75.37426248806314
+            {
+                "pos": {
+                    "lat": 40.607521758602175,
+                    "lng": -75.37426248806314
+                },
+                "img": "ta_entrance_nw",
+                "type": "entrance"
             },
-            "img": "ta_entrance_nw",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.60690374795813,
-                "lng": -75.37394138823156
+            {
+                "pos": {
+                    "lat": 40.60690374795813,
+                    "lng": -75.37394138823156
+                },
+                "img": "ta_entrance_s",
+                "type": "entrance"
             },
-            "img": "ta_entrance_s",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.60721367881064,
-                "lng": -75.37426391899766
-            },
-            "img": "ta_entrance_w",
-            "type": "entrance"
-        }]
+            {
+                "pos": {
+                    "lat": 40.60721367881064,
+                    "lng": -75.37426391899766
+                },
+                "img": "ta_entrance_w",
+                "type": "entrance"
+            }
+        ]
     },
     "Lewis Lab": {
         "name": "Lewis Lab",
@@ -283,54 +293,56 @@
             "lat": 40.607612805867,
             "lng": -75.37495857390
         },
-        "points": [{
-            "pos": {
-                "lat": 40.60768713401179,
-                "lng": -75.37450598581492
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60768713401179,
+                    "lng": -75.37450598581492
+                },
+                "img": "ll_entrance_e",
+                "type": "entrance"
             },
-            "img": "ll_entrance_e",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.6077876904175,
-                "lng": -75.37491203140272
+            {
+                "pos": {
+                    "lat": 40.6077876904175,
+                    "lng": -75.37491203140272
+                },
+                "img": "ll_entrance_n",
+                "type": "entrance"
             },
-            "img": "ll_entrance_n",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.607256882758634,
-                "lng": -75.37567200978887
+            {
+                "pos": {
+                    "lat": 40.607256882758634,
+                    "lng": -75.37567200978887
+                },
+                "img": "ll_entrance_sw",
+                "type": "entrance"
             },
-            "img": "ll_entrance_sw",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.607549725449125,
-                "lng": -75.37528525395518
+            {
+                "pos": {
+                    "lat": 40.607549725449125,
+                    "lng": -75.37528525395518
+                },
+                "img": "ll_entrance_w",
+                "type": "entrance"
             },
-            "img": "ll_entrance_w",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.60756499566237,
-                "lng": -75.3748287703686
+            {
+                "pos": {
+                    "lat": 40.60756499566237,
+                    "lng": -75.3748287703686
+                },
+                "img": "ll_exit_s",
+                "type": "exit"
             },
-            "img": "ll_exit_s",
-            "type": "exit"
-        },
-        {
-            "pos": {
-                "lat": 40.60788433777203,
-                "lng": -75.37494596682903
-            },
-            "img": "ll_parking",
-            "type": "parking"
-        }]
+            {
+                "pos": {
+                    "lat": 40.60788433777203,
+                    "lng": -75.37494596682903
+                },
+                "img": "ll_parking",
+                "type": "parking"
+            }
+        ]
     },
     "Wilber": {
         "name": "Wilber",
@@ -374,7 +386,8 @@
                 },
                 "img": "wb_entrance_w",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Fritz Lab": {
         "name": "Fritz Lab",
@@ -442,7 +455,8 @@
                 },
                 "img": "fr_parking_w",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Chandler Ulman": {
         "name": "Chandler Ulman",
@@ -454,46 +468,48 @@
             "lat": 40.60741408725,
             "lng": -75.37648384148
         },
-        "points": [{
-            "pos": {
-                "lat": 40.607486980390966,
-                "lng": -75.37596290986548
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.607486980390966,
+                    "lng": -75.37596290986548
+                },
+                "img": "cu_entrance_e",
+                "type": "entrance"
             },
-            "img": "cu_entrance_e",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.60748392594676,
-                "lng": -75.37605008166042
+            {
+                "pos": {
+                    "lat": 40.60748392594676,
+                    "lng": -75.37605008166042
+                },
+                "img": "cu_lift",
+                "type": "wheelchair lift"
             },
-            "img": "cu_lift",
-            "type": "wheelchair lift"
-        },
-        {
-            "pos": {
-                "lat": 40.60752363371264,
-                "lng": -75.37653422037388
+            {
+                "pos": {
+                    "lat": 40.60752363371264,
+                    "lng": -75.37653422037388
+                },
+                "img": "cu_entrance_n",
+                "type": "entrance"
             },
-            "img": "cu_entrance_n",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.60758879512444,
-                "lng": -75.3766522375722
+            {
+                "pos": {
+                    "lat": 40.60758879512444,
+                    "lng": -75.3766522375722
+                },
+                "img": "cu_parking",
+                "type": "parking"
             },
-            "img": "cu_parking",
-            "type": "parking"
-        },
-        {
-            "pos": {
-                "lat": 40.60733323985233,
-                "lng": -75.37606751602355
-            },
-            "img": "cu_shower",
-            "type": "shower"
-        }]
+            {
+                "pos": {
+                    "lat": 40.60733323985233,
+                    "lng": -75.37606751602355
+                },
+                "img": "cu_shower",
+                "type": "shower"
+            }
+        ]
     },
     "Packard ": {
         "name": "Packard ",
@@ -534,22 +550,24 @@
             "lat": 40.607628828853,
             "lng": -75.38138904892
         },
-        "points": [{
-            "pos": {
-                "lat": 40.607818944714296,
-                "lng": -75.38143007716008
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.607818944714296,
+                    "lng": -75.38143007716008
+                },
+                "img": "mo_entrance",
+                "type": "entrance"
             },
-            "img": "mo_entrance",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.607680986189784,
-                "lng": -75.38144013544358
-            },
-            "img": "mo_lift",
-            "type": "lift"
-        }]
+            {
+                "pos": {
+                    "lat": 40.607680986189784,
+                    "lng": -75.38144013544358
+                },
+                "img": "mo_lift",
+                "type": "lift"
+            }
+        ]
     },
     "STEPS": {
         "name": "STEPS",
@@ -614,30 +632,32 @@
             "lat": 40.60894447462,
             "lng": -75.37886358897
         },
-        "points": [{
-            "pos": {
-                "lat": 40.60912659735455,
-                "lng": -75.37893247972484
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60912659735455,
+                    "lng": -75.37893247972484
+                },
+                "img": "mg_entrance_n",
+                "type": "entrance"
             },
-            "img": "mg_entrance_n",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.60879217538978,
-                "lng": -75.37891728971623
+            {
+                "pos": {
+                    "lat": 40.60879217538978,
+                    "lng": -75.37891728971623
+                },
+                "img": "mg_entrance_s",
+                "type": "entrance"
             },
-            "img": "mg_entrance_s",
-            "type": "entrance"
-        },
-        {
-            "pos": {
-                "lat": 40.60926978325882,
-                "lng": -75.37895906223989
-            },
-            "img": "mg_parking",
-            "type": "parking"
-        }]
+            {
+                "pos": {
+                    "lat": 40.60926978325882,
+                    "lng": -75.37895906223989
+                },
+                "img": "mg_parking",
+                "type": "parking"
+            }
+        ]
     },
     "FML": {
         "name": "FML",
@@ -689,7 +709,8 @@
                 },
                 "img": "fml_entrance_main",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Rauch": {
         "name": "Rauch",
@@ -749,7 +770,8 @@
                 },
                 "img": "rb_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Computing Center": {
         "name": "Computing Center",
@@ -769,7 +791,8 @@
                 },
                 "img": "fml_comp_entrance",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Whitaker": {
         "name": "Whitaker",
@@ -797,7 +820,8 @@
                 },
                 "img": "wh_entrance_s",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Digital Media Studio": {
         "name": "Digital Media Studio",
@@ -817,7 +841,8 @@
                 },
                 "img": "dms_entrance",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Neville": {
         "name": "Neville",
@@ -845,7 +870,8 @@
                 },
                 "img": "nv_entrance_w",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Mudd": {
         "name": "Mudd",
@@ -873,7 +899,8 @@
                 },
                 "img": "mu_entrance_w",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Sinclair": {
         "name": "Sinclair",
@@ -893,7 +920,8 @@
                 },
                 "img": "si_entrance_n",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "HST": {
         "name": "HST",
@@ -937,7 +965,8 @@
                 },
                 "img": "hst_entrance_sw",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Coxe": {
         "name": "Coxe",
@@ -957,7 +986,8 @@
                 },
                 "img": "cx_entrance_s",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Dravo": {
         "name": "Dravo",
@@ -993,7 +1023,8 @@
                 },
                 "img": "dravo_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Drinker": {
         "name": "Drinker",
@@ -1037,7 +1068,8 @@
                 },
                 "img": "drink_sign",
                 "type": "sing"
-            }]
+            }
+        ]
     },
     "Richards": {
         "name": "Richards",
@@ -1057,7 +1089,8 @@
                 },
                 "img": "rich_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Congdon": {
         "name": "Congdon",
@@ -1077,7 +1110,8 @@
                 },
                 "img": "rath_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Emery": {
         "name": "Emery",
@@ -1097,7 +1131,8 @@
                 },
                 "img": "rath_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Leavitt": {
         "name": "Leavitt",
@@ -1117,14 +1152,16 @@
                 },
                 "img": "upcent_laundry_entrance",
                 "type": "entrance"
-            },{
-            "pos": {
-                "lat": 40.6059696321367,
-                "lng": -75.37273605489095
             },
-            "img": "upcent_parking",
-            "type": "parking"
-        }]
+            {
+                "pos": {
+                    "lat": 40.6059696321367,
+                    "lng": -75.37273605489095
+                },
+                "img": "upcent_parking",
+                "type": "parking"
+            }
+        ]
     },
     "McConn": {
         "name": "McConn",
@@ -1152,14 +1189,16 @@
                 },
                 "img": "upcent_laundry_entrance",
                 "type": "entrance"
-            },{
-            "pos": {
-                "lat": 40.6059696321367,
-                "lng": -75.37273605489095
             },
-            "img": "upcent_parking",
-            "type": "parking"
-        }]
+            {
+                "pos": {
+                    "lat": 40.6059696321367,
+                    "lng": -75.37273605489095
+                },
+                "img": "upcent_parking",
+                "type": "parking"
+            }
+        ]
     },
     "Smiley": {
         "name": "Smiley",
@@ -1187,7 +1226,8 @@
                 },
                 "img": "rath_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Thornburg": {
         "name": "Thornburg",
@@ -1215,7 +1255,8 @@
                 },
                 "img": "rath_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Beardslee": {
         "name": "Beardslee",
@@ -1234,7 +1275,8 @@
                     "lng": -75.37277253491727
                 },
                 "img": "low_cent_parking"
-            }]
+            }
+        ]
     },
     "Carothers": {
         "name": "Carothers",
@@ -1253,7 +1295,8 @@
                     "lng": -75.37277253491727
                 },
                 "img": "low_cent_parking"
-            }]
+            }
+        ]
     },
     "Palmer": {
         "name": "Palmer",
@@ -1280,7 +1323,8 @@
                 },
                 "img": "lowcent_entrance",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Stevens": {
         "name": "Stevens",
@@ -1307,7 +1351,8 @@
                 },
                 "img": "lowcent_entrance",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Stoughton": {
         "name": "Stoughton",
@@ -1326,7 +1371,8 @@
                     "lng": -75.37277253491727
                 },
                 "img": "low_cent_parking"
-            }]
+            }
+        ]
     },
     "Williams": {
         "name": "Williams",
@@ -1345,7 +1391,8 @@
                     "lng": -75.37277253491727
                 },
                 "img": "low_cent_parking"
-            }]
+            }
+        ]
     },
     "Lamberton": {
         "name": "Lamberton",
@@ -1373,7 +1420,8 @@
                 },
                 "img": "la_entrance_se",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Rathbone": {
         "name": "Rathbone",
@@ -1409,6 +1457,7 @@
                 },
                 "img": "rath_parking",
                 "type": "parking"
-            }]
+            }
+        ]
     }
 }
