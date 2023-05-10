@@ -1,0 +1,41 @@
+[
+    {
+        "pos": {
+            "lat": "alumni"
+        }
+    },
+    {
+        "pos": {
+            "lat": 23,
+            "lng": 14
+        },
+        "img": "alumni_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": ""
+        }
+    },
+    {
+        "pos": {
+            "lat": "bib"
+        }
+    },
+    {
+        "pos": {
+            "lat": 24,
+            "lng": 34
+        },
+        "img": "bib_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 2,
+            "lng": 4
+        },
+        "img": "bib_entrance_s",
+        "type": "entrance"
+    }
+]
