@@ -6,16 +6,11 @@
     },
     {
         "pos": {
-            "lat": 23,
-            "lng": 14
+            "lat": 40.60693358669163,
+            "lng": -75.38034788554086
         },
         "img": "alumni_entrance",
         "type": "entrance"
-    },
-    {
-        "pos": {
-            "lat": ""
-        }
     },
     {
         "pos": {
@@ -24,18 +19,1074 @@
     },
     {
         "pos": {
-            "lat": 24,
-            "lng": 34
+            "lat": 40.60867023631125,
+            "lng": -75.37544821731414
         },
         "img": "bib_entrance_n",
         "type": "entrance"
     },
     {
         "pos": {
-            "lat": 2,
-            "lng": 4
+            "lat": 40.60856921148748,
+            "lng": -75.37485615908878
         },
         "img": "bib_entrance_s",
         "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "chapel"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.607642788497834,
+            "lng": -75.37778704136382
+        },
+        "img": "church_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "coppee"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.605989267728674,
+            "lng": -75.37688290753493
+        },
+        "img": "co_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "chandler"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.607486980390966,
+            "lng": -75.37596290986548
+        },
+        "img": "cu_entrance_e",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60748392594676,
+            "lng": -75.37605008166042
+        },
+        "img": "cu_lift",
+        "type": "wheelchair lift"
+    },
+    {
+        "pos": {
+            "lat": 40.60752363371264,
+            "lng": -75.37653422037388
+        },
+        "img": "cu_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60758879512444,
+            "lng": -75.3766522375722
+        },
+        "img": "cu_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": 40.60733323985233,
+            "lng": -75.37606751602355
+        },
+        "img": "cu_shower",
+        "type": "shower"
+    },
+    {
+        "pos": {
+            "lat": "coxe"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60597548858824,
+            "lng": -75.37582118124008
+        },
+        "img": "cx_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "FML"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60865676634765,
+            "lng": -75.37790405045837
+        },
+        "img": "dms_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60908102440396,
+            "lng": -75.37844801205908
+        },
+        "img": "fml_comp_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60909686269164,
+            "lng": -75.37826498937461
+        },
+        "img": "fml_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.6087325811213,
+            "lng": -75.37789420247258
+        },
+        "img": "fml_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60909830253577,
+            "lng": -75.3782005046919
+        },
+        "img": "fml_lift",
+        "type": "lift"
+    },
+    {
+        "pos": {
+            "lat": 40.6089747732286,
+            "lng": -75.37812887319683
+        },
+        "img": "fml_entrance_main",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "drown"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.6056396603061,
+            "lng": -75.37724605974064
+        },
+        "img": "dr_entryway_s",
+        "type": "entryway"
+    },
+    {
+        "pos": {
+            "lat": 40.60580664100117,
+            "lng": -75.37725947078535
+        },
+        "img": "dr_entrance_n",
+        "type": "NOT_entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60559995142087,
+            "lng": -75.37724002477053
+        },
+        "img": "dr_entrance_s",
+        "type": "NOT_entrance"
+    },
+    {
+        "pos": {
+            "lat": "dravo"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60449059458189,
+            "lng": -75.37494770297738
+        },
+        "img": "dravo_NOT_entrance_s",
+        "type": "NOT_entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60467512037845,
+            "lng": -75.37471148883729
+        },
+        "img": "dravo_NOT_entrance_se",
+        "type": "NOT_entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60488410078953,
+            "lng": -75.37464901897792
+        },
+        "img": "dravo_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "drinker"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.604755155507796,
+            "lng": -75.37570222171348
+        },
+        "img": "drink_NOT_entrance_ne",
+        "type": "NOT_entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60450541595063,
+            "lng": -75.37552847743265
+        },
+        "img": "drink_NOT_entrance_s",
+        "type": "NOT_entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60439203240098,
+            "lng": -75.37544160528796
+        },
+        "img": "drink_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": 40.60462620997721,
+            "lng": -75.37551774042335
+        },
+        "img": "drink_sign",
+        "type": "sing"
+    },
+    {
+        "pos": {
+            "lat": "fritz"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60811706700348,
+            "lng": -75.376446084805
+        },
+        "img": "fr_bay_door_nw",
+        "type": "bay_door"
+    },
+    {
+        "pos": {
+            "lat": 40.607917893800014,
+            "lng": -75.37642694659361
+        },
+        "img": "fr_bay_door_sw",
+        "type": "bay_door"
+    },
+    {
+        "pos": {
+            "lat": 40.60813886099491,
+            "lng": -75.37602982868377
+        },
+        "img": "fr_entrance_e",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.608135834051964,
+            "lng": -75.37606730768174
+        },
+        "img": "fr_entryway_e",
+        "type": "entryway"
+    },
+    {
+        "pos": {
+            "lat": 40.60798574855284,
+            "lng": -75.37643573562849
+        },
+        "img": "fr_entrance_w",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60809723484432,
+            "lng": -75.37598713616634
+        },
+        "img": "fr_parking_e",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": 40.6079852938551,
+            "lng": -75.37645844154535
+        },
+        "img": "fr_parking_w",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "grace"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60625570376901,
+            "lng": -75.3749464249936
+        },
+        "img": "gr_entrance_nw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60617794883207,
+            "lng": -75.3744277026616
+        },
+        "img": "gr_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.606066355942296,
+            "lng": -75.37456994827129
+        },
+        "img": "gr_entrance_sw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60611747270847,
+            "lng": -75.37481271411183
+        },
+        "img": "gr_entrance_w",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.6062686629169,
+            "lng": -75.37500427154234
+        },
+        "img": "gr_parking_n",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": 40.60620818687279,
+            "lng": -75.37425226640653
+        },
+        "img": "gr_parking_s",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "hst"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60976315617834,
+            "lng": -75.37603269319138
+        },
+        "img": "hst_entrance_ne",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60973973956589,
+            "lng": -75.37690977551676
+        },
+        "img": "hst_entrance_nw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60937016323937,
+            "lng": -75.37681187489514
+        },
+        "img": "hst_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60945901806445,
+            "lng": -75.37695281289442
+        },
+        "img": "hst_entrance_sw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "johnson"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60529506398797,
+            "lng": -75.3780642555223
+        },
+        "img": "hwc_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.605244959837094,
+            "lng": -75.37813131494579
+        },
+        "img": "hwc_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "ideal"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.605552097773746,
+            "lng": -75.37538408975298
+        },
+        "img": "ideal_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "lamberton"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60549581354092,
+            "lng": -75.37616386745185
+        },
+        "img": "la_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60557014052521,
+            "lng": -75.37594996128898
+        },
+        "img": "la_entrance_se",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "linderman"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60654629980794,
+            "lng": -75.37722447935856
+        },
+        "img": "li_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60658565099153,
+            "lng": -75.37722527678405
+        },
+        "img": "li_lift",
+        "type": "lift"
+    },
+    {
+        "pos": {
+            "lat": "lewis"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60768713401179,
+            "lng": -75.37450598581492
+        },
+        "img": "ll_entrance_e",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.6077876904175,
+            "lng": -75.37491203140272
+        },
+        "img": "ll_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.607256882758634,
+            "lng": -75.37567200978887
+        },
+        "img": "ll_entrance_sw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.607549725449125,
+            "lng": -75.37528525395518
+        },
+        "img": "ll_entrance_w",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60756499566237,
+            "lng": -75.3748287703686
+        },
+        "img": "ll_exit_s",
+        "type": "exit"
+    },
+    {
+        "pos": {
+            "lat": 40.60788433777203,
+            "lng": -75.37494596682903
+        },
+        "img": "ll_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "Lower Cents"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60708875649641,
+            "lng": -75.37277253491727
+        },
+        "img": "low_cent_parking"
+    },
+    {
+        "pos": {
+            "lat": 40.60732201785389,
+            "lng": -75.37241881749381
+        },
+        "img": "lowcent_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Maginnis"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60912659735455,
+            "lng": -75.37893247972484
+        },
+        "img": "mg_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60879217538978,
+            "lng": -75.37891728971623
+        },
+        "img": "mg_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60926978325882,
+            "lng": -75.37895906223989
+        },
+        "img": "mg_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "M&M"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60466903607289,
+            "lng": -75.37780798104731
+        },
+        "img": "mm_entrance_sw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60464799771234,
+            "lng": -75.37807429910208
+        },
+        "img": "tah_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "Mohler"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.607818944714296,
+            "lng": -75.38143007716008
+        },
+        "img": "mo_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.607680986189784,
+            "lng": -75.38144013544358
+        },
+        "img": "mo_lift",
+        "type": "lift"
+    },
+    {
+        "pos": {
+            "lat": "Mudd"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60870570285076,
+            "lng": -75.37670708244725
+        },
+        "img": "mu_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60870570285076,
+            "lng": -75.37670708244725
+        },
+        "img": "mu_entrance_w",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Neville"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60869163532191,
+            "lng": -75.3773485172165
+        },
+        "img": "nv_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60852109836982,
+            "lng": -75.3775242019086
+        },
+        "img": "nv_entrance_w",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Rathbone"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60660128388546,
+            "lng": -75.37300711404743
+        },
+        "img": "rath_entrance_sw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.606635901370616,
+            "lng": -75.37270804775075
+        },
+        "img": "rath_NOT_entrance_se",
+        "type": "NOT_entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.606559539247115,
+            "lng": -75.3728790385706
+        },
+        "img": "rath_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "Rauch"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.6084177694437,
+            "lng": -75.37342161338012
+        },
+        "img": "rb_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60832919173424,
+            "lng": -75.37318222622444
+        },
+        "img": "rb_entrance_ne",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60811129584907,
+            "lng": -75.37390816624797
+        },
+        "img": "rb_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60816016648341,
+            "lng": -75.37352528092195
+        },
+        "img": "rb_entrance_se",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.6078934138318,
+            "lng": -75.37409256811911
+        },
+        "img": "rb_entrance_sw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60853788369721,
+            "lng": -75.3732099333118
+        },
+        "img": "rb_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "Richards"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60567780055867,
+            "lng": -75.37462250385677
+        },
+        "img": "rich_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "Sinclair"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60917038292764,
+            "lng": -75.3771955147524
+        },
+        "img": "si_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Singleton"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.6046558754249,
+            "lng": -75.37897583099978
+        },
+        "img": "smh_entrance_e",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Maida"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60495624116289,
+            "lng": -75.37973623723879
+        },
+        "img": "smh_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60526067828024,
+            "lng": -75.37965442986729
+        },
+        "img": "smh_parking_n",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "Hitch"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.604381981418555,
+            "lng": -75.37972282619505
+        },
+        "img": "smh_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.604508237532634,
+            "lng": -75.37988375873694
+        },
+        "img": "smh_parking_w",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "Taylor Gym"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60756448050704,
+            "lng": -75.37425270515175
+        },
+        "img": "sports_med_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.607189498842416,
+            "lng": -75.37372434712005
+        },
+        "img": "ta_entrance_e",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.607521758602175,
+            "lng": -75.37426248806314
+        },
+        "img": "ta_entrance_nw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60690374795813,
+            "lng": -75.37394138823156
+        },
+        "img": "ta_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60721367881064,
+            "lng": -75.37426391899766
+        },
+        "img": "ta_entrance_w",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Taylor House"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60460263958425,
+            "lng": -75.37834930728842
+        },
+        "img": "tah_entance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60464799771234,
+            "lng": -75.37807429910208
+        },
+        "img": "tah_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "Upper Cents "
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60611506304414,
+            "lng": -75.37311537651678
+        },
+        "img": "upcent_entrance_sw",
+        "type": "NOT_entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60621441665044,
+            "lng": -75.3727853667023
+        },
+        "img": "upcent_laundry_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.6059696321367,
+            "lng": -75.37273605489095
+        },
+        "img": "upcent_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": 40.606559539247115,
+            "lng": -75.3728790385706
+        },
+        "img": "rath_parking",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": "wilbur"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60809723484432,
+            "lng": -75.37598713616634
+        },
+        "img": "fr_parking_e",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": 40.60787408257087,
+            "lng": -75.37572573352081
+        },
+        "img": "wb_entrance_se",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.607891361014765,
+            "lng": -75.37540805165918
+        },
+        "img": "wb_entrance_sw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.607962634553026,
+            "lng": -75.37589737656023
+        },
+        "img": "wb_entrance_w",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Whitaker"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.609181892404976,
+            "lng": -75.37614173321234
+        },
+        "img": "wh_entrance_n",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.608602177388576,
+            "lng": -75.37633736871067
+        },
+        "img": "wh_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Williams"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60682827234026,
+            "lng": -75.37561321759227
+        },
+        "img": "wil_hall_entrance",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Christmas"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.608022307061646,
+            "lng": -75.37719458345
+        },
+        "img": "xms_entrance_s",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60803173109272,
+            "lng": -75.37744873568178
+        },
+        "img": "xms_entrance_sw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": "Zoellner"
+        }
+    },
+    {
+        "pos": {
+            "lat": 40.60827393864469,
+            "lng": -75.37242235070177
+        },
+        "img": "zac_entrance_e",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.608440535210086,
+            "lng": -75.37287890545784
+        },
+        "img": "zac_entrance_nw",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.60803288392858,
+            "lng": -75.37294351682517
+        },
+        "img": "zac_entrance_w",
+        "type": "entrance"
+    },
+    {
+        "pos": {
+            "lat": 40.608455928829464,
+            "lng": -75.37199683386532
+        },
+        "img": "zac_parking_1",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": 40.6084989112004,
+            "lng": -75.3722727430887
+        },
+        "img": "zac_parking_3",
+        "type": "parking"
+    },
+    {
+        "pos": {
+            "lat": 40.60853788369721,
+            "lng": -75.3732099333118
+        },
+        "img": "rb_parking",
+        "type": "parking"
     }
 ]
