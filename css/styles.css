@@ -1,9 +1,14 @@
+body {
+    background-color: rgb(255, 249, 241);
+}
+
 nav {
     background-color: #502d0e;
     padding: 1em;
     text-align: center;
 }
-nav div{
+
+nav div {
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -13,73 +18,29 @@ nav div{
     width: 7em;
     margin: 1em;
 }
-nav a:link, nav a:visited {
-    color: black;
-    text-decoration: none;
-}nav {
-    background-color: #502d0e;
-    padding: 1em;
-    text-align: center;
-}
-nav div{
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    vertical-align: middle;
-    background-color: antiquewhite;
-    height: 2em;
-    width: 7em;
-    margin: 1em;
-}
-nav a:link, nav a:visited {
-    color: black;
-    text-decoration: none;
-}nav {
-    background-color: #502d0e;
-    padding: 1em;
-    text-align: center;
-}
-nav div{
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    vertical-align: middle;
-    background-color: antiquewhite;
-    height: 2em;
-    width: 7em;
-    margin: 1em;
-}
-nav a:link, nav a:visited {
-    color: black;
-    text-decoration: none;
-}nav {
-    background-color: #502d0e;
-    padding: 1em;
-    text-align: center;
-}
-nav div{
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    vertical-align: middle;
-    background-color: antiquewhite;
-    height: 2em;
-    width: 7em;
-    margin: 1em;
-}
-nav a:link, nav a:visited {
+
+nav a:link,
+nav a:visited {
     color: black;
     text-decoration: none;
 }
-.container{
+
+#container {
     padding: 2em;
 }
+
+/* #logo {
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-color: antiquewhite;
+} */
 
 .headshot {
     width: 60%;
 }
 
-.case-pic{
+.case-pic {
     width: 20em
 }
 
@@ -88,12 +49,11 @@ nav a:link, nav a:visited {
     float: left;
     width: 40%;
     padding: 5px;
-  }
-  
-  /* Clear floats after image containers */
-  .row::after {
+}
+
+/* Clear floats after image containers */
+.row::after {
     content: "";
     clear: both;
     display: table;
-  }
-
+}
