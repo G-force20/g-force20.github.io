@@ -9,7 +9,15 @@
             "lat": 40.60467517200,
             "lng": -75.37918064510
         },
-        "points": []
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.6046558754249,
+                    "lng": -75.37897583099978
+                },
+                "img": "smh_entrance_e",
+                "type": "entrance"
+            }]
     },
     "Maida": {
         "name": "Maida",
@@ -21,7 +29,31 @@
             "lat": 40.604655012854,
             "lng": -75.37984635453
         },
-        "points": []
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60495624116289,
+                    "lng": -75.37973623723879
+                },
+                "img": "smh_entrance_n",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.60526067828024,
+                    "lng": -75.37965442986729
+                },
+                "img": "smh_parking_n",
+                "type": "parking"
+            },
+            {
+                "pos": {
+                    "lat": 40.604508237532634,
+                    "lng": -75.37988375873694
+                },
+                "img": "smh_parking_w",
+                "type": "parking"
+            }]
     },
     "Hitch": {
         "name": "Hitch",
@@ -33,7 +65,23 @@
             "lat": 40.6043943832,
             "lng": -75.37955807010
         },
-        "points": []
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.604381981418555,
+                    "lng": -75.37972282619505
+                },
+                "img": "smh_entrance_s",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.604508237532634,
+                    "lng": -75.37988375873694
+                },
+                "img": "smh_parking_w",
+                "type": "parking"
+            }]
     },
     "Taylor": {
         "name": "Taylor",
@@ -280,6 +328,14 @@
                 },
                 "img": "ta_entrance_w",
                 "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.607090375109394, 
+                    "lng": -75.3735821885928
+                },
+                "img": "ta_parking",
+                "type": "parking"
             }
         ]
     },
@@ -879,16 +935,16 @@
         "points": [
             {
                 "pos": {
-                    "lat": 40.60870570285076,
-                    "lng": -75.37670708244725
-                },
+                    "lat": 40.60866620590869,
+                    "lng": -75.37670878745578
+                }, 
                 "img": "mu_entrance_n",
                 "type": "entrance"
             },
             {
                 "pos": {
-                    "lat": 40.60870570285076,
-                    "lng": -75.37670708244725
+                    "lat": 40.60851137038487, 
+                    "lng": -75.37692479644873
                 },
                 "img": "mu_entrance_w",
                 "type": "entrance"
@@ -957,6 +1013,13 @@
                     "lng": -75.37695281289442
                 },
                 "img": "hst_entrance_sw",
+                "type": "entrance"
+            },{
+                "pos": {
+                    "lat": 40.6093745325442, 
+                    "lng": -75.37679214052517
+                },
+                "img": "hst_entrance_bridge",
                 "type": "entrance"
             }
         ]
@@ -1267,7 +1330,8 @@
                     "lat": 40.60708875649641,
                     "lng": -75.37277253491727
                 },
-                "img": "low_cent_parking"
+                "img": "low_cent_parking",
+                "type": "parking"
             }
         ]
     },
@@ -1287,7 +1351,8 @@
                     "lat": 40.60708875649641,
                     "lng": -75.37277253491727
                 },
-                "img": "low_cent_parking"
+                "img": "low_cent_parking",
+                "type": "parking"
             }
         ]
     },
@@ -1307,7 +1372,8 @@
                     "lat": 40.60708875649641,
                     "lng": -75.37277253491727
                 },
-                "img": "low_cent_parking"
+                "img": "low_cent_parking",
+                "type": "parking"
             },
             {
                 "pos": {
@@ -1335,7 +1401,8 @@
                     "lat": 40.60708875649641,
                     "lng": -75.37277253491727
                 },
-                "img": "low_cent_parking"
+                "img": "low_cent_parking",
+                "type": "parking"
             },
             {
                 "pos": {
@@ -1363,7 +1430,8 @@
                     "lat": 40.60708875649641,
                     "lng": -75.37277253491727
                 },
-                "img": "low_cent_parking"
+                "img": "low_cent_parking",
+                "type": "parking"
             }
         ]
     },
@@ -1383,7 +1451,8 @@
                     "lat": 40.60708875649641,
                     "lng": -75.37277253491727
                 },
-                "img": "low_cent_parking"
+                "img": "low_cent_parking",
+                "type": "parking"
             }
         ]
     },
