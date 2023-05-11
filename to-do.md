@@ -10,12 +10,7 @@
 - alumni
 - church
 
-## Maybe fixed:
-- smh
-- taylor gym parking
-- mudd door
-- fml lift
-- lower cents
-
-Need pictures:
-    hst bridge
+## Need pictures:
+- hst bridge
+- fml main entrance
+- williams greenhouse?
