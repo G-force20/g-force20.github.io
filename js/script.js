@@ -45,6 +45,7 @@ function initMap() {
             position: building.pos,
             map: map,
             title: building.name,
+            animation: google.maps.Animation.DROP,
             icon: selectPin(building.access)
         });
         building.marker.addListener("click", () => {
@@ -80,7 +81,8 @@ function loadMarkers(name) {
             point.marker = new google.maps.Marker({
                 position: point.pos,
                 map: map,
-                icon: selectPin(point.type)
+                icon: selectPin(point.type),
+                animation: google.maps.Animation.DROP
             });
             point.marker.addListener("click", () => {
                 showAttributes(point);
@@ -127,7 +129,7 @@ function selectPin(attr) {
         case "exit":
             icon.path += 'door.png'
             break;
-        case "NOT_entrance":
+        case "not_entrance":
             icon.path += 'inaccessible.png'
             break;
         case "lift":
