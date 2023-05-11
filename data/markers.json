@@ -1,0 +1,84 @@
+
+[
+    {
+        "name": "STEPS",
+        "elevator": "Yes",
+        "entrances": 3,
+        "access": "full",
+        "pos": {
+            "lat": 40.60834926072699,
+            "lng": -75.3790093860652
+        },
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60842150942528,
+                    "lng": -75.37841950585867
+                },
+                "img": "steps_entrance_se",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.60876360153168,
+                    "lng": -75.37913163232051
+                },
+                "img": "steps_entrance_e",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.608707105369255,
+                    "lng": -75.379425624754
+                },
+                "img": "steps_entrance_w",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.60866942456593,
+                    "lng": -75.37957889066983
+                },
+                "img": "steps_parking",
+                "type": "parking"
+            },
+            {
+                "pos": {
+                    "lat": 40.60815938736651,
+                    "lng": -75.37848194395667
+                },
+                "img": "pa_parking",
+                "type": "parking"
+            }
+        ]
+    },
+    {
+        "name": "Packard",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "partial",
+        "additional": "Cannot access parts of the bottom floor including the Sunlab, where computer science labs are held. Cannot access the 6th floor. Can access floors 2-5 from single accessible enterence",
+        "pos": {
+            "lat": 40.60786412459489,
+            "lng": -75.37892667396925
+        },
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60775075432465,
+                    "lng": -75.37852897925167
+                },
+                "img": "pa_entrance_w",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.608174372825204,
+                    "lng": -75.37844867637192
+                },
+                "img": "pa_parking",
+                "type": "parking"
+            }
+        ]
+    }
+]

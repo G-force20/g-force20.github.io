@@ -1,21 +1,21 @@
-pin animations
+## Buildings not there:
+- observatory
+- price
 
-buildings not there:
-    bib 
-    zac
-    grace
-    price
-    ideal
-    alumni
-    church?
-    observatory?
+## Buildings added (check if they work): 
+- bib 
+- zac
+- grace
+- ideal
+- alumni
+- church
 
-maybe fixed:
-    smh
-    taylor gym parking
-    mudd door
-    fml lift
-    lower cents
+## Maybe fixed:
+- smh
+- taylor gym parking
+- mudd door
+- fml lift
+- lower cents
 
-need pictures:
+Need pictures:
     hst bridge

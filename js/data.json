@@ -17,7 +17,8 @@
                 },
                 "img": "smh_entrance_e",
                 "type": "entrance"
-            }]
+            }
+        ]
     },
     "Maida": {
         "name": "Maida",
@@ -53,7 +54,8 @@
                 },
                 "img": "smh_parking_w",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Hitch": {
         "name": "Hitch",
@@ -81,7 +83,8 @@
                 },
                 "img": "smh_parking_w",
                 "type": "parking"
-            }]
+            }
+        ]
     },
     "Taylor": {
         "name": "Taylor",
@@ -331,7 +334,7 @@
             },
             {
                 "pos": {
-                    "lat": 40.607090375109394, 
+                    "lat": 40.607090375109394,
                     "lng": -75.3735821885928
                 },
                 "img": "ta_parking",
@@ -726,7 +729,6 @@
             "lng": -75.37787134569
         },
         "points": [
-        
             {
                 "pos": {
                     "lat": 40.60909686269164,
@@ -937,13 +939,13 @@
                 "pos": {
                     "lat": 40.60866620590869,
                     "lng": -75.37670878745578
-                }, 
+                },
                 "img": "mu_entrance_n",
                 "type": "entrance"
             },
             {
                 "pos": {
-                    "lat": 40.60851137038487, 
+                    "lat": 40.60851137038487,
                     "lng": -75.37692479644873
                 },
                 "img": "mu_entrance_w",
@@ -1014,9 +1016,10 @@
                 },
                 "img": "hst_entrance_sw",
                 "type": "entrance"
-            },{
+            },
+            {
                 "pos": {
-                    "lat": 40.6093745325442, 
+                    "lat": 40.6093745325442,
                     "lng": -75.37679214052517
                 },
                 "img": "hst_entrance_bridge",
@@ -1519,6 +1522,220 @@
                 },
                 "img": "rath_parking",
                 "type": "parking"
+            }
+        ]
+    },
+    "Business Innovation Building": {
+        "name": "Business Innovation Building",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Fully accessible",
+        "additional": "",
+        "pos": {
+            "lat": 40.60861200718497,
+            "lng": -75.37513347817927
+        },
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60867023631125,
+                    "lng": -75.37544821731414
+                },
+                "img": "bib_entrance_n",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.60856921148748,
+                    "lng": -75.37485615908878
+                },
+                "img": "bib_entrance_s",
+                "type": "entrance"
+            }
+        ]
+    },
+    "Zoellner Arts Center": {
+        "name": "Zoellner Arts Center",
+        "elevator": "Yes",
+        "entrances": 3,
+        "access": "Fully accessible",
+        "additional": "",
+        "pos": {
+            "lat": 40.608248336369925,
+            "lng": -75.37255468377428
+        },
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60827393864469,
+                    "lng": -75.37242235070177
+                },
+                "img": "zac_entrance_e",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.608440535210086,
+                    "lng": -75.37287890545784
+                },
+                "img": "zac_entrance_nw",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.60803288392858,
+                    "lng": -75.37294351682517
+                },
+                "img": "zac_entrance_w",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.608455928829464,
+                    "lng": -75.37199683386532
+                },
+                "img": "zac_parking_1",
+                "type": "parking"
+            },
+            {
+                "pos": {
+                    "lat": 40.6084989112004,
+                    "lng": -75.3722727430887
+                },
+                "img": "zac_parking_3",
+                "type": "parking"
+            },
+            {
+                "pos": {
+                    "lat": 40.60853788369721,
+                    "lng": -75.3732099333118
+                },
+                "img": "rb_parking",
+                "type": "parking"
+            }
+        ]
+    },
+    "Grace Hall": {
+        "name": "Grace Hall",
+        "elevator": "Yes",
+        "entrances": 2,
+        "access": "Fully accessible",
+        "additional": "",
+        "pos": {
+            "lat": 40.60629455350923,
+            "lng": -75.37460166254384
+        },
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60625570376901,
+                    "lng": -75.3749464249936
+                },
+                "img": "gr_entrance_nw",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.60617794883207,
+                    "lng": -75.3744277026616
+                },
+                "img": "gr_entrance_s",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.606066355942296,
+                    "lng": -75.37456994827129
+                },
+                "img": "gr_entrance_sw",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.60611747270847,
+                    "lng": -75.37481271411183
+                },
+                "img": "gr_entrance_w",
+                "type": "entrance"
+            },
+            {
+                "pos": {
+                    "lat": 40.6062686629169,
+                    "lng": -75.37500427154234
+                },
+                "img": "gr_parking_n",
+                "type": "parking"
+            },
+            {
+                "pos": {
+                    "lat": 40.60620818687279,
+                    "lng": -75.37425226640653
+                },
+                "img": "gr_parking_s",
+                "type": "parking"
+            }
+        ]
+    },
+    "IDEAL Office": {
+        "name": "IDEAL Office",
+        "elevator": "?",
+        "entrances": 1,
+        "access": "Partially accessible",
+        "additional": "",
+        "pos": {
+            "lat": 40.60592465227564,
+            "lng": -75.37515069567132
+        },
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.605552097773746,
+                    "lng": -75.37538408975298
+                },
+                "img": "ideal_entrance",
+                "type": "entrance"
+            }
+        ]
+    },
+    "Alumni Memorial": {
+        "name": "Alumni Memorial",
+        "elevator": "Yes",
+        "entrances": 1,
+        "access": "Partially accessible",
+        "additional": "",
+        "pos": {
+            "lat": 40.60686782482805,
+            "lng": -75.38022192987604
+        },
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.60693358669163,
+                    "lng": -75.38034788554086
+                },
+                "img": "alumni_entrance",
+                "type": "entrance"
+            }
+        ]
+    },
+    "Packer Memorial Church": {
+        "name": "Packer Memorial Church",
+        "elevator": "No",
+        "entrances": 1,
+        "access": "Partially accessible",
+        "additional": "",
+        "pos": {
+            "lat": 40.60776296522926,
+            "lng": -75.37764748089323
+        },
+        "points": [
+            {
+                "pos": {
+                    "lat": 40.607642788497834,
+                    "lng": -75.37778704136382
+                },
+                "img": "church_entrance",
+                "type": "entrance"
             }
         ]
     }
