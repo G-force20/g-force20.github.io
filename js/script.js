@@ -71,6 +71,7 @@ function loadMarkers(name) {
         //makes sure we don't have to initialize new markers if the building has been clicked on
         // console.log("reused")
         shown.forEach((point) => {
+            point.marker.setAnimation(google.maps.Animation.DROP);
             point.marker.setMap(map);
         });
     }
